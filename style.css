@@ -283,8 +283,8 @@ a.btn:nth-child(2)::before{
 }
 
 .img-box img{
-    width: 100%;
-    max-width: 350px;
+    width: 500px;
+    max-width: 600px;
     height: auto;
 }
 
@@ -315,7 +315,8 @@ a.btn:nth-child(2)::before{
 }
 
 .about .img-about img{
-    max-width: 400px;
+    width: 500px;
+    max-width: 600px;
     height: auto;
 }
 
@@ -364,17 +365,17 @@ a.btn:nth-child(2)::before{
 }
 
 .info-about1{
-    left: 10%;
+    left: -7%;
     top: 34%;
 }
 
 .info-about2{
-    left: 66%;
+    left: 82%;
     top: 15%;
 }
 
 .info-about3{
-    left: 61%;
+    left: 81%;
     top: 70%;
 }
 
